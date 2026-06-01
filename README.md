@@ -8,7 +8,7 @@ PlanAway is a full-stack travel planning web app that generates personalized iti
 
 ## 🌍 Live Demo
 
-🔗 [ai-travel-planner-sooty-eight.vercel.app](https://ai-travel-planner-sooty-eight.vercel.app)
+🔗 [ai-travel-planner-keshavs-projects-c3ceaede.vercel.app](https://ai-travel-planner-keshavs-projects-c3ceaede.vercel.app)
 
 ---
 
